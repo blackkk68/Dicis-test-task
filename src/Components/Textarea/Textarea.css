@@ -1,0 +1,22 @@
+.Textarea {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+textarea {
+    resize: none;
+    width: 300px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 1px lightslategray;
+    font-family: inherit;
+}
+
+button {
+    cursor: pointer;
+    font-family: inherit;
+}

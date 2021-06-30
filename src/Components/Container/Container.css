@@ -1,0 +1,7 @@
+.Container {
+    width: 850px;
+    height: 500px;
+    background-color: rgb(219, 235, 240);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
